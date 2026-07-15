@@ -8046,3 +8046,21 @@ msgstr "在节点上显示关闭按钮。"
 
 msgid "Display minimize button on nodes."
 msgstr "在节点上显示最小化按钮。"
+
+msgid "Cavity"
+msgstr "空腔"
+
+msgid "Maximum Curvature"
+msgstr "最大曲率"
+
+msgid "Minimum Curvature"
+msgstr "最小曲率"
+
+msgid "Bent normals"
+msgstr "弯曲法线"
+
+msgid "Adjacency"
+msgstr "邻接"
+
+msgid "Tangent"
+msgstr "切线"
