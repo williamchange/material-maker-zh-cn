@@ -8064,3 +8064,9 @@ msgstr "邻接"
 
 msgid "Tangent"
 msgstr "切线"
+
+msgid "Post Process"
+msgstr "后期处理"
+
+msgid "Reroll Seeds"
+msgstr "重掷种子"
