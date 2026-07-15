@@ -5676,7 +5676,7 @@ msgid "The radius of the pie"
 msgstr "饼图的半径"
 
 msgid "Aperture"
-msgstr "孔径"
+msgstr "光圈（传送门）"
 
 msgid "The aperture of the sector"
 msgstr "扇区的孔径"
