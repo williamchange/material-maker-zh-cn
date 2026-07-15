@@ -3594,7 +3594,7 @@ msgid "Transparency"
 msgstr "透明度"
 
 msgid "Subsurf. scatter."
-msgstr "次表明散射。"
+msgstr "次表面散射"
 
 msgid "albedo_tex"
 msgstr "基础色贴图"
