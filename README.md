@@ -1,5 +1,5 @@
 <div align="center">
-	<h2>Material Maker 简体中文汉化</h2>
+	<h1>Material Maker 简体中文汉化</h1>
 </div>
 
 ## 使用方法
