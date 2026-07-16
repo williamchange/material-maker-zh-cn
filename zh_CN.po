@@ -8070,3 +8070,21 @@ msgstr "后期处理"
 
 msgid "Reroll Seeds"
 msgstr "重掷种子"
+
+msgid "Connect to website"
+msgstr "连接至网站"
+
+msgid "Send material to website"
+msgstr "发送材质至网站"
+
+msgid "The clipboard cannot be pasted"
+msgstr "无法从剪贴板粘贴"
+
+msgid "The clipboard contains a color palette and can be pasted\ninto a graph view as a colorize node"
+msgstr "剪贴板含有色板，可粘贴到节点图视图作为着色节点。"
+
+msgid "The clipboard can be pasted as a new graph view\nand contains %d nodes and %d connections"
+msgstr "剪贴板可粘贴为新节点图视图，含%d个节点和%d条连线"
+
+msgid "The clipboard can be pasted into a graph view\nand contains %d nodes and %d connections"
+msgstr "剪贴板可粘贴到节点图视图，含%d个节点和%d条连线"
