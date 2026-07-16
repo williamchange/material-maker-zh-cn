@@ -174,6 +174,9 @@ msgstr "绘制项目设置"
 msgid "Set painting environment"
 msgstr "设置绘制环境(HDRI)"
 
+msgid "Environment Editor"
+msgstr "环境编辑器"
+
 msgid "Environment editor"
 msgstr "环境编辑器"
 
@@ -1333,7 +1336,7 @@ msgid "Bricks:"
 msgstr "砖块："
 
 msgid "Bricks"
-msgstr "砖块："
+msgstr "砖块"
 
 msgid "The number of bricks per row"
 msgstr "每排砖块数量"
@@ -1481,9 +1484,6 @@ msgstr "平滑"
 
 msgid "The amount of smoothing to the mask shape"
 msgstr "平滑遮罩形状的量"
-
-msgid "offset"
-msgstr "偏移"
 
 msgid "Offset"
 msgstr "偏移"
@@ -1837,7 +1837,7 @@ msgid "Uneven bricks 2"
 msgstr "凹凸不平的砖块2"
 
 msgid "Generates an uneven bricks pattern in rows."
-msgstr "生成一排排不均匀的砖块图案："
+msgstr "生成一排排不均匀的砖块图案。"
 
 msgid "Uneven Bricks 3"
 msgstr "不平整的砖块 3"
@@ -7793,7 +7793,7 @@ msgid "Switch"
 msgstr "切换"
 
 msgid "Remote"
-msgstr "远程"
+msgstr "遥控"
 
 msgid "Debug"
 msgstr "调试"
@@ -8080,11 +8080,110 @@ msgstr "发送材质至网站"
 msgid "The clipboard cannot be pasted"
 msgstr "无法从剪贴板粘贴"
 
-msgid "The clipboard contains a color palette and can be pasted\ninto a graph view as a colorize node"
+msgid ""
+"The clipboard contains a color palette and can be pasted\n"
+"into a graph view as a colorize node"
 msgstr "剪贴板含有色板，可粘贴到节点图视图作为着色节点。"
 
-msgid "The clipboard can be pasted as a new graph view\nand contains %d nodes and %d connections"
+msgid ""
+"The clipboard can be pasted as a new graph view\n"
+"and contains %d nodes and %d connections"
 msgstr "剪贴板可粘贴为新节点图视图，含%d个节点和%d条连线"
 
-msgid "The clipboard can be pasted into a graph view\nand contains %d nodes and %d connections"
+msgid ""
+"The clipboard can be pasted into a graph view\n"
+"and contains %d nodes and %d connections"
 msgstr "剪贴板可粘贴到节点图视图，含%d个节点和%d条连线"
+
+msgid "Zoom In"
+msgstr "放大"
+
+msgid "Zoom Out"
+msgstr "缩小"
+
+msgid "Zoom Reset"
+msgstr "重置缩放"
+
+msgid "Center View"
+msgstr "重置缩放"
+
+msgid "Slow"
+msgstr "慢"
+
+msgid "Paused"
+msgstr "暂停"
+
+msgid "Grid Snapping"
+msgstr "网格吸附"
+
+msgid "Grid Visibility"
+msgstr "显示网格"
+
+msgid "Minimap Visibility"
+msgstr "显示缩略图"
+
+msgid "Direct Connections"
+msgstr "直線连接"
+
+msgid "Bezier Connections"
+msgstr "贝塞尔连接"
+
+msgid "Rounded Connections"
+msgstr "圆角连接"
+
+msgid "Manhattan Connections"
+msgstr "直角连接"
+
+msgid "Diagonal Connections"
+msgstr "斜角"
+
+msgid "Show console"
+msgstr "显示终端"
+
+msgid "Sort items by relevancy"
+msgstr "按相关度排序"
+
+msgid "Sort items by usage frequency"
+msgstr "按使用频率排序"
+
+msgid "Sort items by alphabetical order"
+msgstr "按字母顺序排序"
+
+msgid "Sort items by node category/section"
+msgstr "按节点类别排序"
+
+msgid "Ctrl + #RMB: Cut connections, Shift + #RMB: Create reroute, Ctrl/Cmd + Shift + #RMB: Create aperture pair"
+msgstr "Ctrl + #RMB：切断连接，Shift + #RMB：创建转接点，Ctrl/Cmd + Shift + #RMB：创建光圈(传送门)"
+
+msgid "Enter: Rename, Ctrl/Cmd+Enter: Batch rename"
+msgstr "Enter：重命名，Ctrl/Cmd+Enter：批量重命名"
+
+msgid "%s#LMB: Select node, #LMB#LMB/F2/Enter: Rename"
+msgstr "%s#LMB：选择节点，#LMB#LMB/F2/Enter：重命名"
+
+msgid "#MMB: Jump to source remote"
+msgstr "#MMB：跳转到遥控源"
+
+msgid "#LMB: Enable/Disable Library, #RMB: Show library path"
+msgstr "#LMB：启用/禁用库，#RMB：显示库路径"
+
+msgid "#LMB: Enable/Disable Library"
+msgstr "#LMB：启用/禁用库"
+
+msgid "#LMB: Open/Close panel, #RMB: Pin/Unpin Panel"
+msgstr "#LMB：打开/关闭面板，#RMB：固定/取消固定面板"
+
+msgid "#LMB: Reroll all nodes, Shift+#LMB: Reroll selected nodes"
+msgstr "#LMB：重掷所有节点，Shift+#LMB：重掷选中节点"
+
+msgid "#LMB: Show Node, Alt+#LMB: Edit Node"
+msgstr "#LMB：跳转到节点，Alt+#LMB：编辑节点"
+
+msgid "en - English"
+msgstr "en - 英文"
+
+msgid "zh_CN - Chinese, China"
+msgstr "zh_CN - 中文(中国)"
+
+msgid "New..."
+msgstr "新建环境..."
