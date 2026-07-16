@@ -19,6 +19,8 @@
 	<img width="800" alt="image" src="https://github.com/user-attachments/assets/06e425c0-9c96-48b2-ac4f-e0c6fba23777" />
 </div>
 
+更新时可能需要重新启动Material Maker才能生效。
+
 ## 预览
 
 <div align="center">
