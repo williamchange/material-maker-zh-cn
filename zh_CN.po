@@ -3621,7 +3621,7 @@ msgid "opacity_tex"
 msgstr "透明度贴图"
 
 msgid "sss_tex"
-msgstr "次表明散射贴图"
+msgstr "次表面散射贴图"
 
 msgid "3D PBR Material"
 msgstr "3D PBR 材质"
