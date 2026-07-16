@@ -8206,3 +8206,13 @@ msgid ""
 msgstr ""
 "窗口未聚焦时限制帧率，以节省 CPU/GPU 资源。\n"
 "较低的数值可能有助于降低功耗，但可能增加窗口重新聚焦时的响应时间。"
+
+msgid ""
+"Default label position used for aperture nodes.\n"
+"Can also be toggled manually by pressing R when a node is selected."
+msgstr ""
+"光圈(传送门)节点的默认标签位置。\n"
+"选中节点时按 R 键也可手动切换。"
+
+msgid "Make color picker popups floating windows, which allows them to be moved around."
+msgstr "将拾色器弹窗设为浮动窗口，以便随意拖动位置。"
