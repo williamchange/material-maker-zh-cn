@@ -292,7 +292,7 @@ msgid "Shadertoy"
 msgstr "Shadertoy"
 
 msgid "Godot Canvas item"
-msgstr "Godot Canvas item"
+msgstr "Godot Canvas Item"
 
 msgid "Godot Spatial"
 msgstr "Godot Spatial"
@@ -1399,7 +1399,7 @@ msgid "Size X"
 msgstr "尺寸 X"
 
 msgid "Size.x"
-msgstr "Size.x"
+msgstr "尺寸.x"
 
 msgid "The number of columns of the pattern"
 msgstr "模式的列数"
@@ -1408,7 +1408,7 @@ msgid "Size Y"
 msgstr "尺寸Y"
 
 msgid "Size.y"
-msgstr "Size.y"
+msgstr "尺寸.y"
 
 msgid "The number of rows of the pattern"
 msgstr "图案的行数"
@@ -2036,7 +2036,7 @@ msgid "Inc Scale"
 msgstr "Inc规模"
 
 msgid "IncScale"
-msgstr "缩放"
+msgstr "增量缩放"
 
 msgid "The scale increment of the pattern"
 msgstr "图案的比例增量"
@@ -3492,7 +3492,7 @@ msgid "Katakana"
 msgstr "片假名"
 
 msgid "Character"
-msgstr "特点"
+msgstr "字符"
 
 msgid "Glyph Scale"
 msgstr "字形比例"
@@ -5601,7 +5601,7 @@ msgid "The width of the capsule shape around the line"
 msgstr "围绕线的胶囊形状的宽度"
 
 msgid "A profile for the shape, generated (for example) by a Tonality node."
-msgstr "形状的轮廓，由 Tonality 节点生成（例如）。"
+msgstr "形状的轮廓（例如由Tonality节点生成））。"
 
 msgid "sdMoon"
 msgstr "sd月相"
@@ -7574,10 +7574,10 @@ msgid "The dilate mode (clockwise contour, counter clockwise contour or slope)"
 msgstr "膨胀模式(顺时针等高线、逆时针等高线或斜率)"
 
 msgid "Contour (cw)"
-msgstr "轮廓(CW)"
+msgstr "轮廓（顺时针）"
 
 msgid "Contour (ccw)"
-msgstr "轮廓(CCW)"
+msgstr "轮廓（逆时针）"
 
 msgid "Wavelet Noise"
 msgstr "小波噪音"
