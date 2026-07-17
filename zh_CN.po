@@ -8084,7 +8084,7 @@ msgstr "暂停"
 msgid "Grid Snapping"
 msgstr "网格吸附"
 
-msgid "Grid Visibility"
+msgid "Grid Visiblity"
 msgstr "显示网格"
 
 msgid "Minimap Visibility"
@@ -8216,3 +8216,25 @@ msgstr ""
 
 msgid "Make color picker popups floating windows, which allows them to be moved around."
 msgstr "将拾色器弹窗设为浮动窗口，以便随意拖动位置。"
+
+msgid "Delete them!"
+msgstr "删除这些文件！"
+
+msgid ""
+"The file-name to use. \n\n"
+"You can use $project, $node, $idx and $resolution to make the file-name auto-adjust."
+msgstr ""
+"文件名。\n\n"
+"你可使用 $project、$node、$idx 和 $resolution 使文件名自动调整。\n"
+
+msgid "Transparency checkers brightness"
+msgstr "透明棋盘格亮度"
+
+msgid "Transparency checkers size"
+msgstr "透明棋盘格大小"
+
+msgid "Connection lines thickness"
+msgstr "连接线粗细"
+
+msgid "Port offset"
+msgstr "端口间距"
