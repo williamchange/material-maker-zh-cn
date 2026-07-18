@@ -6979,7 +6979,7 @@ msgid "The translated 3D texture"
 msgstr "平移后的3D纹理"
 
 msgid "Uniform"
-msgstr "均色的"
+msgstr "均色"
 
 msgid "TEX3D Uniform"
 msgstr "TEX3D 单色"
