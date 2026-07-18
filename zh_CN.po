@@ -1405,7 +1405,7 @@ msgid "Size.x"
 msgstr "尺寸.x"
 
 msgid "The number of columns of the pattern"
-msgstr "模式的列数"
+msgstr "图案的列数"
 
 msgid "Size Y"
 msgstr "尺寸Y"
@@ -1699,7 +1699,7 @@ msgid "Columns"
 msgstr "列"
 
 msgid "The number of columns of a pattern"
-msgstr "模式的列数"
+msgstr "图案的列数"
 
 msgid "The offset of the pattern (not useful for all patterns)"
 msgstr "图案的偏移量（不适用于所有图案）"
@@ -1828,7 +1828,7 @@ msgid "Randomness"
 msgstr "随机性"
 
 msgid "The randomness of the pattern"
-msgstr "模式的随机性"
+msgstr "图案的随机性"
 
 msgid "Uneven Bricks 2"
 msgstr "凹凸不平的砖块2"
@@ -2174,7 +2174,7 @@ msgid "Scale"
 msgstr "缩放"
 
 msgid "The scale of the noise pattern"
-msgstr "噪波模式的缩放值"
+msgstr "噪波图案的缩放值"
 
 msgid "The resolution of the output"
 msgstr "输出分辨率"
@@ -2480,7 +2480,7 @@ msgid "Width of the curve pattern"
 msgstr "曲线图案的宽度"
 
 msgid "Number of repetitions of the input pattern"
-msgstr "输入模式的重复次数"
+msgstr "输入图案的重复次数"
 
 msgid "Input pattern to be drawn along the curve"
 msgstr "输入沿曲线绘制的图案"
@@ -6742,7 +6742,7 @@ msgid "A grayscale 3D texture that combines patterns along all 3 axes"
 msgstr "沿所有3个轴组合图案的灰度3D纹理"
 
 msgid "The operation used to combine the X, Y and Z patterns"
-msgstr "用于组合 X、Y 和 Z 模式的操作"
+msgstr "用于组合 X、Y 和 Z 图案的操作"
 
 msgid "Pattern.x"
 msgstr "图案.x"
